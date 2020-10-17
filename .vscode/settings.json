@@ -1,0 +1,5 @@
+{
+    "jestrunner.codeLensSelector": "**/*.{test,spec,unit}.{js,jsx,ts,tsx}",
+    "jestrunner.configPath": "jest.unit.config.json",
+    "jest.pathToConfig": "jest.unit.config.json"
+}
