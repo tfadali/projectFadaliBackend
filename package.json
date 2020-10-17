@@ -1,0 +1,8 @@
+{
+  "name": "projectFadaliBackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tfadali/projectFadaliBackend.git",
+  "author": "Tarek Fadali <tsfadali@gmail.com>",
+  "license": "MIT"
+}
