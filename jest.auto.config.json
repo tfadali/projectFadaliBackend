@@ -1,0 +1,5 @@
+{
+    "preset": "ts-jest",
+    "testRegex": "((\\.|/*.)(auto))\\.ts?$",
+    "testEnvironment": "node"
+}
